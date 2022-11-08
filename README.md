@@ -1,7 +1,15 @@
-- 👋 Hi, I’m chen baruch
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m chen baruch - live in zefat,isreal
+- 👀 I’m interested in ml, algorithms, web and resarch
+- 🌱 I’m currently learning ardoinu
+- most of my project use in the civil cumunity of idf
+
+
+react
+node
+python
+ardoinu
+
+welcome to reach out
 - 📫 instagram ? { https://www.instagram.com/chenbaruc/ } : { chenbaruchchen@gmail.com }
 
 <!---
